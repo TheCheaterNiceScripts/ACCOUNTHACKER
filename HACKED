@@ -1,4 +1,4 @@
-Local decalsyeeted = true
+local decalsyeeted = true
 local g = game
 local w = g.Workspace
 local l = g.Lighting
